@@ -1,0 +1,19 @@
+environment: prod 
+
+database: PROD_DATABASE 
+
+schemas: 
+
+  - BRONZE 
+
+  - SILVER 
+
+  - GOLD 
+
+  - CORTEX 
+
+  - AUDIT 
+
+warehouse: PROD_WH 
+
+role: PROD_ROLE 
